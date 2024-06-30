@@ -1,1 +1,2 @@
 print("Dhule")
+print("Malegaon")
